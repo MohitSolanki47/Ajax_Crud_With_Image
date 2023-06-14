@@ -56,6 +56,10 @@ echo json_encode($data);
 </body>
 </html>
 
+
+
+
+
 <Script>
     $(document).ready(function() {
     // Handle form submission
